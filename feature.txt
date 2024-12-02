@@ -1,1 +1,4 @@
 This is a new feature.
+ git merge feature-greeting
+git add .
+ git commit -m "Resolve merge conflict between main and feature-greeting"
